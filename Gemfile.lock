@@ -45,7 +45,7 @@ GEM
     erubis (2.7.0)
     eventmachine (0.12.10)
     eventmachine (0.12.10-java)
-    googlecharts (1.6.8)
+    googlecharts (1.6.12)
     hike (1.2.3)
     httparty (0.6.1)
       crack (= 0.1.8)
